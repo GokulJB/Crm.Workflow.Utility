@@ -1,0 +1,7 @@
+E:\Official\Project\EQ\MyCode\Crm.Workflow.Utility\Crm.Workflow.Utility\bin\Debug\Crm.Workflow.Utility.dll
+E:\Official\Project\EQ\MyCode\Crm.Workflow.Utility\Crm.Workflow.Utility\bin\Debug\Crm.Workflow.Utility.pdb
+E:\Official\Project\EQ\MyCode\Crm.Workflow.Utility\Crm.Workflow.Utility\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+E:\Official\Project\EQ\MyCode\Crm.Workflow.Utility\Crm.Workflow.Utility\bin\Debug\Microsoft.Xrm.Sdk.dll
+E:\Official\Project\EQ\MyCode\Crm.Workflow.Utility\Crm.Workflow.Utility\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+E:\Official\Project\EQ\MyCode\Crm.Workflow.Utility\Crm.Workflow.Utility\obj\Debug\Crm.Workflow.Utility.dll
+E:\Official\Project\EQ\MyCode\Crm.Workflow.Utility\Crm.Workflow.Utility\obj\Debug\Crm.Workflow.Utility.pdb
